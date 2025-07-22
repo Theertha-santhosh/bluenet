@@ -68,5 +68,4 @@ The Bluenet Chatbot is a light, multilingual voice-and-text assistant that provi
     *   `/users`: Manage user profiles.
 ### 📂 Download the Presentation
 
-[📥 Click here to download the PowerPoint Presentation]([[./bluenet_ppt.pptx](https://github.com/Theertha-santhosh/bluenet/blob/fa9d9a8821b250bce5b8b91ea3ffe1eca1ec9697/bluenet_ppt.pptx)](https://github.com/Theertha-santhosh/bluenet/blob/main/bluenet_ppt.pptx))
-
+[📥 Click here to download the PowerPoint Presentation](https://github.com/Theertha-santhosh/bluenet/blob/main/bluenet_ppt.pptx)
