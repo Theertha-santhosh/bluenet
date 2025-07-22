@@ -65,4 +65,8 @@ The Bluenet Chatbot is a light, multilingual voice-and-text assistant that provi
     *   `/alerts`: Get the latest weather alerts.
     *   `/recognize`: Recognize a fish species from an image.
     *   `/navigate`: Get a safe route to the shore.
-    *   `/users`: Manage user profiles. 
+    *   `/users`: Manage user profiles.
+### 📂 Download the Presentation
+
+[📥 Click here to download the PowerPoint Presentation](./presentation.pptx)
+
